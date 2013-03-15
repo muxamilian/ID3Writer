@@ -1,7 +1,7 @@
 ID3Writer
 =========
 
-A JavaScript library for writing mp3 ID3 Tags. The ID3 Tags are in version 2.3.
+A JavaScript library for creating mp3s with ID3 Tags. The ID3 Tags are in version 2.3.
 
 Usage
 -----
